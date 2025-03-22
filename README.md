@@ -16,12 +16,12 @@ Este programa en Python solicita al usuario los nombres y notas de tres estudian
     pip install openpyxl
     ```
 
-3.  Guarda el código Python en un archivo llamado `ejercicio2.py`.
+3.  Guarda el código Python en un archivo llamado `main.py`.
 4.  Abre una terminal o línea de comandos y navega al directorio donde guardaste el archivo.
 5.  Ejecuta el programa con el siguiente comando:
 
     ```bash
-    python ejercicio2.py
+    python main.py
     ```
 
 6.  El programa te pedirá que ingreses el nombre y la nota de cada estudiante (tres veces).
