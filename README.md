@@ -10,17 +10,17 @@ Este programa en Python solicita al usuario los nombres y notas de tres estudian
 ## Cómo ejecutar el programa
 
 1.  Asegúrate de tener Python 3.x instalado en tu sistema.
-2.  Instala la librería `openpyxl` si aún no la tienes:
+2.  Instala la librerías
 
-    ```bash
-    pip install openpyxl
+    ```
+    pip install -r requirements.txt
     ```
 
 3.  Guarda el código Python en un archivo llamado `main.py`.
 4.  Abre una terminal o línea de comandos y navega al directorio donde guardaste el archivo.
 5.  Ejecuta el programa con el siguiente comando:
 
-    ```bash
+    ```
     python main.py
     ```
 
