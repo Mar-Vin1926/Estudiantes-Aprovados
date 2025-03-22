@@ -10,7 +10,7 @@ Este programa en Python solicita al usuario los nombres y notas de tres estudian
 ## Cómo ejecutar el programa
 
 1.  Asegúrate de tener Python 3.x instalado en tu sistema.
-2.  Instala la librerías
+2.  Instala las librerías
 
     ```
     pip install -r requirements.txt
